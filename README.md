@@ -1,5 +1,5 @@
 # **OpenGFX-TropicalGrass---Landscape-Enhancement**
-A small landscape replacement for OpenGFX2 arctic tropical grass and GFX1 landscape, add more details, Load it after OpenGFX2/OpenGFX1.1.2  
+A small landscape replacement for OpenGFX2 arctic tropical grass and GFX1 landscape, add more details, load it after OpenGFX2/OpenGFX1.1.2  
 
 Graphics:Zephyris, Zyliety, GarryG, Brickblock1, Sanchimaru, Jezulkim  
 Code:Zyliety, TadeuszD(snow line mod)  
