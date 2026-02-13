@@ -1,0 +1,72 @@
+##grflangid 0x01
+STR_GRF_NAME :OpenGFX 'TropicalGrass' - Landscape Enhancement {LORRY}
+STR_GRF_DESCRIPTION :{GOLD}A small landscape replacement for OpenGFX2 arctic tropical grass and gfx1 landscape, add more details.{}{RED}Load it after OpenGFX2/OpenGFX1.1.2{}{SILVER}Graphics:Zephyris, Zyliety, GarryG, Brickblock1, Sanchimaru, Jezulkim{}{SILVER}Code:Zyliety, TadeuszD(snow line mod){}License:GPLv2 or higher
+STR_GRF_URL :https://github.com/OpenTTD/OpenGFX2/tree/main
+
+STR_PARAM_FOUNDATIONS :Type of foundation
+STR_PARAM_FOUNDATIONS_DESC :{SILVER}Select the foundations to use.
+
+STR_PARAM_FOUNDATIONS_STONE_GRAY :gray stone
+STR_PARAM_FOUNDATIONS_BRICKS :bricks
+STR_PARAM_FOUNDATIONS_MOSSY_STONE_GRAY :mossy gray stone
+
+
+STR_PARAM_STREETTREE :Type of street tree
+STR_PARAM_STREETTREE_DESC :{SILVER}Select the street tree to use.
+STR_PARAM_STREETTREE_SAKURA :sakura
+STR_PARAM_STREETTREE_PINE :pine
+STR_PARAM_STREETTREE_WITHERED_PINE :withered pine
+STR_PARAM_STREETTREE_ARBOR :arbor
+STR_PARAM_STREETTREE_ELM :elm
+STR_PARAM_STREETTREE_DISABLED :DISABLE
+
+STR_PARAM_STREETLIGHT :Enable streetlights
+STR_PARAM_DESC_STREETLIGHT :{SILVER}Show/hide the streetlights in game.
+
+
+STR_INCORRECT_CLIMATE	:The snow line only effect in arctic climate. It is deactivated for current game.
+
+STR_PARAM_SNOWLINE_JAN_NAME		:Snow height in January (%)
+STR_PARAM_SNOWLINE_JAN_DESC		:{SILVER}Snow line height in January, given as percentage of maximum map height. {}{GOLD} - 0% means snow everywhere (coasts will never be snowy).{}{GOLD} - 100% means snow nowhere.
+STR_PARAM_SNOWLINE_JULY_NAME	:Snow height in July (%)
+STR_PARAM_SNOWLINE_JULY_DESC	:{SILVER}Snow line height in July, given as percentage of maximum map height. {}{GOLD} - 0% means snow everywhere (coasts will never be snowy).{}{GOLD} - 100% means snow nowhere.
+STR_PARAM_SNOWLINE_MODE_NAME	:Snow line mode
+STR_PARAM_SNOWLINE_MODE_DESC	:{SILVER}Snow line mode. {}{GOLD}Linear - snow line moves uniformly up and down over whole year. {}{GOLD}Seasons - snow line moves faster in spring and autumn but slower in winter and summer.{}{GOLD}Quick thaw - snow disappears quickly in april and comes back in october. During other months snow line stays unchanged.
+STR_PARAM_SNOWLINE_MODE_LINEAR	:Linear
+STR_PARAM_SNOWLINE_MODE_SEASONS	:Seasons
+STR_PARAM_SNOWLINE_MODE_QUICK	:Quick thaw
+
+STR_PARAM_ROCK_STYLE_NAME    :Choose Rock style
+STR_PARAM_ROCK_STYLE_DESC    :{SILVER}Choose the rock style to use.
+STR_PARAM_ROCK_STYLE_0       :Default rocky style
+STR_PARAM_ROCK_STYLE_1       :Arctic rocky style
+STR_PARAM_ROCK_STYLE_2       :temperate rocky style
+
+STR_PARAM_ROCK_SNOW_STYLE_NAME :Choose Rock style(snow)
+STR_PARAM_ROCK_SNOW_STYLE_DESC :{SILVER}Choose the rock style to use in snowy mountainous areas.
+STR_PARAM_ROCK_SNOW_STYLE_0 :Default rocky style
+STR_PARAM_ROCK_SNOW_STYLE_1 :Arctic rocky style(GFX1)
+STR_PARAM_ROCK_SNOW_STYLE_2 :Arctic rocky style(GFX2)
+STR_PARAM_ROCK_SNOW_STYLE_3 :Temperate rocky style(GFX1)
+STR_PARAM_ROCK_SNOW_STYLE_4 :Temperate rocky style(GFX2)
+
+STR_PARAM_SNOW_STYLE_NAME    :Choose Snow sprite
+STR_PARAM_SNOW_STYLE_DESC    :{SILVER}Choose the snow sprite style to use in snowy areas.
+STR_PARAM_SNOW_STYLE_0       :Temperate snow style(GFX1)
+STR_PARAM_SNOW_STYLE_1       :Temperate snow style(GFX2)
+STR_PARAM_SNOW_STYLE_2       :Arctic snow style(GFX1)
+STR_PARAM_SNOW_STYLE_3       :Arctic snow style(GFX2)
+STR_PARAM_SNOW_STYLE_4       :Default snow style
+
+STR_PARAM_FLOWER_NAME    :Type of flower
+STR_PARAM_FLOWER_DESC    :{SILVER}Select the flower type to use.
+STR_PARAM_FLOWER_0       :Default flower
+STR_PARAM_FLOWER_1       :Temperate flower
+STR_PARAM_FLOWER_2       :Arctic flower
+
+STR_PARAM_AIRWAVE_NAME    :Replacement transmitter to microwave
+STR_PARAM_AIRWAVE_DESC    :{SILVER}Select the microwave type to use.
+STR_PARAM_AIRWAVE_0       :Microwave tower(red and white)
+STR_PARAM_AIRWAVE_1       :Microwave tower(silver)
+STR_PARAM_AIRWAVE_2       :Microwave tower(red and white, slim)
+STR_PARAM_AIRWAVE_3       :Microwave tower(silver, slim)
